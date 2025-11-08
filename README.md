@@ -88,10 +88,9 @@ Then open **http://localhost:5173** in your browser.
 
 ## 🌐 Deployment
 
-You can deploy this project easily using platforms like:
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
-- [Hostinger](https://www.hostinger.com/)
+I deployed this project using vercel platforms you can see it live in this link:
+- https://macbook-gasp-app.vercel.app/
+
 
 ---
 
